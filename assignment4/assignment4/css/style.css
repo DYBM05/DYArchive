@@ -15,13 +15,18 @@ html {
 
 
 body {
-font-family:"protest-revolution", sans-seif;	
-	
+font-family:'Protest Revolution';
+background: #42060a;
+Color: #fad037;
 }
 
 
 #container {
-	
+margin:auto;
+margin-top:20px;
+width:800px;
+border:1px solid black;
+padding:25px;	
 }
 
 p{ {
