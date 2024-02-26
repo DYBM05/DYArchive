@@ -1,0 +1,105 @@
+/* Basic CSS resets -- leveling slight inconsistencies in browsers */
+html, body {
+	margin:0px;
+	padding:0px;
+	height:100%;
+}
+
+html {
+		/* Standard text-settings below */
+	font-size: 1em;
+    line-height: 1.4em;
+}
+
+
+
+
+body {
+	
+	
+}
+
+
+#container {
+	
+}
+
+div.oval {
+  width: 200px;
+  height: 100px;
+  color: #EDCD3D;
+  transition:width 2s, height 2s, transform 2s;
+  position:abosolute;
+  bottom:0px;
+  right:0px;
+}
+
+div.circle {
+  width: 100px;
+  height: 100px;
+  color: #D8746D;
+  transition: width 2s, height 2s, transform 2s;
+}
+
+
+
+
+div.circle:hover {
+  background: blue;
+transform: scale(2,2);
+font-size: 3em;
+}
+
+div.oval:hover {
+  background: red;
+transform: rotate(90deg);
+font-size: 3em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+	
+
+
+
+
+
+
+
